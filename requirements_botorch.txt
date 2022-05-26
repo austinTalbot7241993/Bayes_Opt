@@ -1,0 +1,8 @@
+jupyter
+gym
+tqdm
+botorch
+matplotlib
+torch
+torchvision
+torchaudio
